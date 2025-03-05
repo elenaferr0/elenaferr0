@@ -1,6 +1,6 @@
 ### Hi there, I'm Elena 👋
 - 🐧 Linux noob
-- 🫐 Currently working as a Flutter dev
+- 🎲 Into Game Theory, Combinatorial Optimization and Probability theory
 - 📕 MSc Computer Science student @ University of Padua
 
 <a href="https://github.com/archlinux"><img src="https://avatars.githubusercontent.com/u/4673648?s=40&v=4"></a>
