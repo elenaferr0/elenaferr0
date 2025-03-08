@@ -1,5 +1,5 @@
 ### Hi there, I'm Elena 👋
-- 🐧 Linux noob
+- 🐧 Linux enthusiast
 - 📕 MSc Computer Science student @ University of Padua
 - 🎲 Into Game Theory, Combinatorial Optimization and Probability
 
