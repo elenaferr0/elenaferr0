@@ -1,6 +1,6 @@
 ### Hi there, I'm Elena 👋
 - 🐧 Linux enthusiast
-- 📕 MSc Computer Science student @ University of Padua
+- 📕 MSc Computer Science student
 - 🎲 Into Game Theory, Combinatorial Optimization and Probability
 
 <a href="https://github.com/archlinux"><img src="https://avatars.githubusercontent.com/u/4673648?s=40&v=4"></a>
